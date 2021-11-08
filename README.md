@@ -4,7 +4,8 @@ Aquest repositori conté els documents de la Pràctica 1 de l'assignatura Tipolo
 Autors:
   David Malvesí José
   Òscar Busquets Garcia
-  
+
+
 Fitxers: 
   code: Directori que conté la notebook PAC1. Aquesta notebook és la que permet descarregar les dades de la pràctica.
   -
