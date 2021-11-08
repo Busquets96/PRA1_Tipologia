@@ -2,12 +2,12 @@
 Aquest repositori conté els documents de la Pràctica 1 de l'assignatura Tipologia i cicle de vida de les dades.
 
 Autors:
-  David Malvesí José
-  Òscar Busquets Garcia
+  - David Malvesí José
+  - Òscar Busquets Garcia
 
 
-Fitxers: 
-  code: Directori que conté la notebook PAC1. Aquesta notebook és la que permet descarregar les dades de la pràctica.
+Fitxers:
+  - code: Directori que conté la notebook PAC1. Aquesta notebook és la que permet descarregar les dades de la pràctica.
   -
   -
  
